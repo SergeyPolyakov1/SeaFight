@@ -1,4 +1,4 @@
-#pragma once
+
 #include"Field.h"
 #include"Player.h"
 #include"Computer.h"
